@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3840
     wikipedia: http://en.wikipedia.org/wiki/George_Manville_Fenn
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24516#The-Crystal-Hunters--A-Boy-s-Adventures-in-the-Higher-Alps
 gutenberg_issued: '2008-02-04'
 gutenberg_type: Text
 identifiers:
